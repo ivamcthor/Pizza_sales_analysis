@@ -2,7 +2,7 @@
 pizza sales project
 # Interactive Dashboard creation using Tableau
 # Data Source:
-- <a href=" ">Dataset</a>
+- [<a href="https://github.com/ivamcthor/Pizza_sales_analysis/blob/main/pizza_sales.csv">Dataset</a>]
 
 ## Questions:
 -	 Hourly Trend for Total Pizzas Sold?
@@ -12,10 +12,8 @@ pizza sales project
 -  Total Pizzas Sold by Pizza Category?
 -  Top 5 Best Sellers by Revenue, Total Quantity and Total Orders?
 -  Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders?
-                
-## Objective: 
+ ## Objective: 
 - Create a dashboard using Tableau highlighting various interesting observations from the given input data.
-
 ## process:
 -  Verify data for any missing values and anomalies, and sort out the same.
 -  Made sure data is consistent and clean with respect to data type, data format and values used
@@ -23,7 +21,6 @@ pizza sales project
 -  Write Queries and creating reports.
 -  Connect localhost server with tableau and then create required calculated fields and edit aliases if needed.
 - Visualize the results in tableau compare the results with SQL.
-- 
 ## Dashboard:
 ![Screenshot (141)](https://github.com/user-attachments/assets/87c8f450-0aad-43bc-92ce-b4882df8e52d)
 
@@ -37,4 +34,4 @@ pizza sales project
 -  The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders 2.32.
 -  Following the analysis most of orders are between 12:00 PM and 1:00 PM, and in evening from 4:00 PM to 7:00 pm.
    Offer more discounts and maintain adequate number of pizzas to generate more revenue.
--  Classic (26.91%),Supreme(25.46%) category pizza are most ordered and large size(45.91%) pizza contributes maximum sales
+-  Classic (26.91%),Supreme(25.46%) category pizza are most ordered and large size(45.91%) pizza contributes maximum sales.
