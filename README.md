@@ -28,10 +28,10 @@ pizza sales project
 
 ## Project Insights: 
 -  The sum of the total price of all pizza orders are $817.9K
--  The average amount spent per order, calculated by dividing the total revenue by the total number of orders is $38.31.
+-  The average amount spent per order is $38.31, calculated by dividing the total revenue by the total number of orders.
 -  The sum of the quantities of all pizzas sold are 49.6k.
 -  The total number of orders placed are 21.4k.
--  The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders 2.32.
+-  The average number of pizzas sold per order is 2.32, calculated by dividing the total number of pizzas sold by the total number of orders.
 -  Following the analysis most of orders are between 12:00 PM and 1:00 PM, and in evening from 4:00 PM to 7:00 pm.
    Offer more discounts and maintain adequate number of pizzas to generate more revenue.
 -  Classic (26.91%),Supreme(25.46%) category pizza are most ordered and large size(45.91%) pizza contributes maximum sales.
