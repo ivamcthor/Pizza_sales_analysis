@@ -2,9 +2,9 @@
 pizza sales project
 # Interactive Dashboard creation using Tableau
 # Data Source:
-- <a href= ">Dataset</a>
+- <a href=" ">Dataset</a>
 
-# Questions
+## Questions:
 -	 Hourly Trend for Total Pizzas Sold?
 -	 Weekly Trend for Total Orders?
 -	 Percentage of Sales by Pizza Category?
@@ -16,18 +16,18 @@ pizza sales project
 ## Objective: 
 - Create a dashboard using Tableau highlighting various interesting observations from the given input data.
 
-## process
+## process:
 -  Verify data for any missing values and anomalies, and sort out the same.
 -  Made sure data is consistent and clean with respect to data type, data format and values used
 -  Import data from csv to Oracle SQL.
 -  Write Queries and creating reports.
 -  Connect localhost server with tableau and then create required calculated fields and edit aliases if needed.
 - Visualize the results in tableau compare the results with SQL.
-  
-## Dashboard 
+- 
+## Dashboard:
+![Screenshot (141)](https://github.com/user-attachments/assets/87c8f450-0aad-43bc-92ce-b4882df8e52d)
 
-
-
+![Screenshot (142)](https://github.com/user-attachments/assets/0315f615-1969-42a1-b18a-6828ee38c673)
 
 ## Project Insights: 
 -  The sum of the total price of all pizza orders are $817.9K
